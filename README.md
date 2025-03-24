@@ -26,14 +26,14 @@
             max-width: 1300px;
             height: auto;
             background: white; /* Fondo blanco para el contenedor */
-            color: #333;
+            color: #004d40;
             border-radius: 10px;
             overflow: hidden;
             box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
         }
         .sidebar {
             width: 30%;
-            background: #90caf9; /* Color azul suave para la barra lateral */
+            background: #00796b; /* Color verde agua para la barra lateral */
             color: white;
             text-align: center;
             padding: 20px;
@@ -47,6 +47,17 @@
             border-radius: 50%;
             border: 3px solid white; /* Borde blanco */
             margin-bottom: 15px;
+        }
+        .contact-info {
+            background: #00796b; /* Color verde agua para la sección de contacto */
+            color: white;
+            padding: 10px;
+            border-radius: 5px;
+            width: 100%; /* Asegura que ocupe todo el ancho */
+            margin-top: 10px; /* Espaciado superior */
+        }
+        .contact-info a {
+            color: #000; /* Color negro para el texto del correo y teléfono */
         }
         .main-content {
             width: 70%;
@@ -72,7 +83,7 @@
         }
         .bio p {
             font-size: 14px;
-            color: #333;
+            color: #333; /* Color del texto de la biografía */
             text-align: justify; /* Justificar el texto de la biografía */
         }
         .interests {
@@ -90,7 +101,7 @@
         }
         .interests li {
             font-size: 14px;
-            color: #333;
+            color: #333; /* Color del texto de los intereses */
             margin-bottom: 5px; /* Espaciado entre los elementos de la lista */
             display: flex; /* Usar flexbox para alinear icono y texto */
             align-items: center; /* Centrar verticalmente el icono y el texto */
@@ -103,7 +114,7 @@
             justify-content: space-between; /* Espacio entre los botones */
             background: #00796b; /* Color verde agua para las pestañas */
             color: white;
-            padding: 8px;
+            padding: 8
             border-radius: 5px;
             flex-wrap: nowrap; /* Asegura que los botones estén en una sola fila */
             overflow-x: auto; /* Permite desplazamiento horizontal si es necesario */
@@ -117,10 +128,10 @@
             margin: 5px; / 
         }
         .portfolio .tabs div:hover {
-            background: #5707d8;
+            background: #555355;
         }
         .portfolio .tabs div.active {
-            background: #4a0152;
+            background: #555355;
             font-weight: bold;
         }
         .tab-content {
@@ -135,7 +146,7 @@
             display: block;
         }
         .year {
-            background: #1e5f8a;
+            background: #00796b;
             padding: 8px;
             margin: 4px 0;
             border-radius: 4px;
@@ -145,13 +156,13 @@
             transition: background 0.3s;
         }
         .year:hover {
-            background: #024bf5;
+            background: #555355;
         }
         .year-content {
             display: none;
             padding: 4px 8px;
             background: white;
-            border-left: 3px solid #022b53;
+            border-left: 3px solid #27292b;
             margin-top: 4px;
         }
         /* Estilos para los enlaces externos */
@@ -173,7 +184,7 @@
             text-align: center; /* Centra el texto en los enlaces */
         }
         .links a:hover {
-            background: #FF6F61; /* Color de fondo al pasar el mouse */
+            background: #777474; /* Color de fondo al pasar el mouse */
             color: white; /* Color del texto al pasar el mouse */
         }
         /* Responsivo */
