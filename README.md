@@ -2,7 +2,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Hoja de Vida CV - Ubeimar Iván Herrera Cevallos</title>
+    <title>Hoja de Vida CV - Mayerli Alejandra Castillo Yandun</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
     <style>
         * {
@@ -212,17 +212,17 @@
     <div class="container">
         <!-- Barra lateral -->
         <div class="sidebar">
-            <img src="https://raw.githubusercontent.com/ubeimar19/CV/main/foto%20perfl.jpeg" alt="Foto de perfil">
-            <h2>Ubeimar Iván Herrera Cevallos</h2>
+            <img src="https://raw.github.com/Maye2002/CV/blob/main/Imagen%20de%20WhatsApp%202025-03-22%20a%20las%2022.36.30_ee548773.jpg" alt="Foto de perfil">
+            <h2>Mayerli Alejandra Castillo Yandun</h2>
             <div class="contact-info">
-                <p><strong>Correo:</strong> <a href="mailto:ubeimar2121@gmail.com"><i class="fas fa-envelope"></i> ubeimar2121@gmail.com</a></p>
-                <p><strong>Teléfono:</strong> <a href="tel:+593998957995"><i class="fas fa-phone"></i> +593 998957995</a></p>
+                <p><strong>Correo:</strong> <a href="mailto:mayecastillo762@gmail.com"><i class="fas fa-envelope"></i> mayecastillo762@gmail.com</a></p>
+                <p><strong>Teléfono:</strong> <a href="tel:+593985288070"><i class="fas fa-phone"></i> +593 985288070</a></p>
             </div>
             <br>
             <div class="links">
                 <h3>Links Externos</h3>
-                <a href="https://upecedu-my.sharepoint.com/:b:/g/personal/ubeimar_herrera_upec_edu_ec/EakKe0V2KCVKvblpLF4A83UB_ib-omnWHGvkNi7L7yHcAQ?e=dUliOH"><i class="fas fa-file-pdf" style="color: #FF6F61;"></i> Hoja de vida PDF</a>
-                <a href="https://www.linkedin.com/in/ubeimar-iván-herrera-cevallos-568b292a2/"><i class="fab fa-linkedin" style="color: #1E88E5;"></i> LinkedIn</a>
+                <a href="https://upecedu-my.sharepoint.com/:b:/g/personal/mayerli_castillo_upec_edu_ec/EQhp6O81p3hIhUePyd_7XCwBIv_-5ndALea_1qMsGfQEHA?e=v1QWWk"><i class="fas fa-file-pdf" style="color: #FF6F61;"></i> Hoja de vida PDF</a>
+                <a href="https://www.linkedin.com/in/mayerli-castillo-920437357/"><i class="fab fa-linkedin" style="color: #1E88E5;"></i> LinkedIn</a>
             </div>
         </div>
         <!-- Sección Principal -->
@@ -230,7 +230,14 @@
             <div class="title">Hoja de Vida CV</div>
             <div class="bio">
                 <h2><i class="fas fa-user"></i> Biografía</h2>
-                <p>Tengo título de bachiller con formación técnica en Electromecánica Automotriz, Unidad Educativa Vicente Fierro. Cuento con título de tercer nivel de ingeniería en Logística y Transporte en la Universidad Politécnica Estatal del Carchi. He desarrollado habilidades en herramientas tecnológicas con conocimientos en mecánica automotriz, al igual cuento con conocimientos en logística, gestión de almacenes, inventarios, análisis de datos manejado de indicadores clave (KPIs), lo que me permite analizar y mejorar procesos en el ámbito del transporte y la gestión operativa. Intereses profesionales: gestión en cadena de suministros, optimización de rutas de transporte, gestión de inventarios y almacenamiento. Habilidad para trabajar en equipo, aprender rápidamente y resolver problemas de manera eficiente. Disponibilidad inmediata y flexibilidad para horarios y ubicación.</p>
+                <p> Nací en Tulcán, Ecuador, en el año 2002. Cuento con título de tercer nivel de ingeniería en Logística
+                    y Transporte en la Universidad Politécnica Estatal del Carchi.
+                    He desarrollado habilidades en herramientas tecnológicas con conocimientos en logística, gestión de
+                    almacenes, inventarios, análisis de datos manejado de indicadores clave (KPIs), lo que me permite analizar
+                    y mejorar procesos en el ámbito del transporte y la gestión operativa. Intereses profesionales: gestión en
+                    cadena de suministros, optimización de rutas de transporte, gestión de inventarios y almacenamiento.
+                    Habilidad para trabajar en equipo, aprender con facilidad y resolver problemas de manera eficiente.
+                    Disponibilidad inmediata y flexibilidad para horarios y ubicación.</p>
             </div>
             <div class="interests">
                 <h2><i class="fas fa-briefcase"></i> Intereses Profesionales</h2>
@@ -262,12 +269,6 @@
                             <li>Ingeniería en Logística y Transporte en la Universidad Politécnica Estatal Del Carchi</li>
                         </ul>
                     </div>
-                    <div class="year" onclick="toggleYear('pc2024')">2020</div>
-                    <div id="pc2024" class="year-content">
-                        <ul>
-                            <li>Título de Bachiller Técnico en Electromecánica Automotriz, en la Unidad Educativa Vicente Fierro</li>
-                        </ul>
-                    </div>
                 </div>
                 <!-- Proyectos Investigación -->
                 <div id="investigacion" class="tab-content">
@@ -291,12 +292,6 @@
                         <ul>
                             <li>Práctica en el llenado de declaraciones Aduaneras en el Sistema Aduanero. Duración: 10 horas. My Intelecto. Guayaquil, Ecuador. 12-24 de noviembre, 2024.</li>
                             <li>Actividades Simultáneas Latinoamericanas de Estudiantes e Ingenieros Industriales. Duración: 6 horas. Universidad del Istmo. Modalidad Virtual Panamá. 10 de mayo, 2024.</li>
-                        </ul>
-                    </div>
-                    <div class="year" onclick="toggleYear('c2022')">2022</div>
-                    <div id="c2022" class="year-content">
-                        <ul>
-                            <li>Introducción a la Realidad Virtual y Simulación. Duración: 40 horas. Universidad Politécnica Estatal del Carchi. Tulcán, Ecuador. 05 de mayo-26 de julio, 2022.</li>
                         </ul>
                     </div>
                 </div>
@@ -336,7 +331,6 @@
                             <li><i class="fas fa-map-marked-alt"></i> Arc Map (Básico) - Diseño y optimización de rutas</li>
                             <li><i class="fas fa-paint-brush"></i> Sketchup (Básico) - Creación de modelos personalizados</li>
                             <li><i class="fab fa-python"></i> Python (Básico) - Desarrollo de scripts para análisis de datos</li>
-                            <li><i class="fas fa-gamepad"></i> Unreal Engine (Básico) - Visualizar diseños y crear experiencias cinematográficas</li>
                         </ul>
                     </div>
                     <div class="year" onclick="toggleYear('expp')">Experiencia Profesional</div>
@@ -348,7 +342,7 @@
                 </div>
                 <!-- Distinciones, Premios o Becas -->
                 <div id="premios" class="tab-content">
-                    <div class="year" onclick="toggleYear('pre11')">2024</div>
+                    <div class="year" onclick="toggleYear('pre11')">2025</div>
                     <div id="pre11" class="year-content">
                         <ul>
                             <li><i class="fas fa-trophy"></i> Beca Excelencia Académica</li>
