@@ -16,8 +16,8 @@
             justify-content: center;
             align-items: center;
             min-height: 100vh;
-            background: #2c3e50;
-            color: white;
+            background: #f0f4f8; /* Color de fondo suave */
+            color: #333;
         }
         .container {
             display: flex;
@@ -29,12 +29,12 @@
             color: #333;
             border-radius: 10px;
             overflow: hidden;
-            box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
+            box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
         }
         .sidebar {
             width: 30%;
-            background: #01084d;
-            color: white;
+            background: #e0e7ff; /* Color de fondo suave para la barra lateral */
+            color: #333;
             text-align: center;
             padding: 20px;
             display: flex;
@@ -45,7 +45,7 @@
             width: 120px;
             height: 120px;
             border-radius: 50%;
-            border: 3px solid white;
+            border: 3px solid white; /* Borde blanco */
             margin-bottom: 15px;
         }
         .main-content {
@@ -58,14 +58,14 @@
             font-weight: bold;
             text-align: center;
             margin-bottom: 20px;
-            color: #2c3e50;
+            color: #4a4e69; /* Color del título más suave */
         }
         .bio, .portfolio {
             margin-bottom: 20px;
         }
         .bio h2, .portfolio h2 {
-            color: #34495e;
-            border-bottom: 2px solid #78afe7;
+            color: #6a0572; /* Color de encabezado más suave */
+            border-bottom: 2px solid #d6a2e8; /* Color de borde suave */
             padding-bottom: 5px;
             margin-bottom: 10px;
         }
@@ -100,7 +100,7 @@
         .portfolio .tabs {
             display: flex;
             justify-content: space-between; /* Espacio entre los botones */
-            background: #160161;
+            background: #d6a2e8; /* Color de fondo suave para las pestañas */
             color: white;
             padding: 8px;
             border-radius: 5px;
