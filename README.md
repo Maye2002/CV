@@ -114,7 +114,7 @@
             padding: 7px;
             cursor: pointer;
             transition: background 0.3s, color 0.3s;
-            margin: 5px; /*
+            margin: 5px; / 
         }
         .portfolio .tabs div:hover {
             background: #5707d8;
