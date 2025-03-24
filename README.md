@@ -16,7 +16,7 @@
             justify-content: center;
             align-items: center;
             min-height: 100vh;
-            background: #f0f4f8; /* Color de fondo suave */
+            background: #e0f7fa; /* Color de fondo azul agua suave */
             color: #333;
         }
         .container {
@@ -25,7 +25,7 @@
             width: 100%;
             max-width: 1300px;
             height: auto;
-            background: white;
+            background: white; /* Fondo blanco para el contenedor */
             color: #333;
             border-radius: 10px;
             overflow: hidden;
@@ -33,8 +33,8 @@
         }
         .sidebar {
             width: 30%;
-            background: #e0e7ff; /* Color de fondo suave para la barra lateral */
-            color: #333;
+            background: #b0bec5; /* Color gris suave para la barra lateral */
+            color: white;
             text-align: center;
             padding: 20px;
             display: flex;
@@ -52,20 +52,21 @@
             width: 70%;
             padding: 20px;
             overflow-y: auto;
+            background: #e0f7fa; /* Color de fondo azul agua suave */
         }
         .title {
             font-size: 26px;
             font-weight: bold;
             text-align: center;
             margin-bottom: 20px;
-            color: #4a4e69; /* Color del título más suave */
+            color: #00796b; /* Color verde agua para el título */
         }
         .bio, .portfolio {
             margin-bottom: 20px;
         }
         .bio h2, .portfolio h2 {
-            color: #6a0572; /* Color de encabezado más suave */
-            border-bottom: 2px solid #d6a2e8; /* Color de borde suave */
+            color: #004d40; /* Color verde oscuro para encabezados */
+            border-bottom: 2px solid #00796b; /* Color verde agua para el borde */
             padding-bottom: 5px;
             margin-bottom: 10px;
         }
@@ -100,7 +101,7 @@
         .portfolio .tabs {
             display: flex;
             justify-content: space-between; /* Espacio entre los botones */
-            background: #d6a2e8; /* Color de fondo suave para las pestañas */
+            background: #00796b; /* Color verde agua para las pestañas */
             color: white;
             padding: 8px;
             border-radius: 5px;
@@ -113,7 +114,7 @@
             padding: 7px;
             cursor: pointer;
             transition: background 0.3s, color 0.3s;
-            margin: 5px; /* Espaciado entre botones */
+            margin: 5px
         }
         .portfolio .tabs div:hover {
             background: #5707d8;
