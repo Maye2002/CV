@@ -33,7 +33,7 @@
         }
         .sidebar {
             width: 30%;
-            background: #b0bec5; /* Color gris suave para la barra lateral */
+            background: #90caf9; /* Color azul suave para la barra lateral */
             color: white;
             text-align: center;
             padding: 20px;
@@ -114,7 +114,7 @@
             padding: 7px;
             cursor: pointer;
             transition: background 0.3s, color 0.3s;
-            margin: 5px;
+            margin: 5px; /*
         }
         .portfolio .tabs div:hover {
             background: #5707d8;
