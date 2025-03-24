@@ -212,7 +212,7 @@
     <div class="container">
         <!-- Barra lateral -->
         <div class="sidebar">
-            <img src="https://raw.github.com/Maye2002/CV/blob/main/Imagen%20de%20WhatsApp%202025-03-22%20a%20las%2022.36.30_ee548773.jpg" alt="Foto de perfil">
+           <img src="https://raw.githubusercontent.com/Maye2002/CV/main/Imagen%20de%20WhatsApp%202025-03-22%20a%20las%2022.36.30_ee548773.jpg" alt="Foto de perfil">
             <h2>Mayerli Alejandra Castillo Yandun</h2>
             <div class="contact-info">
                 <p><strong>Correo:</strong> <a href="mailto:mayecastillo762@gmail.com"><i class="fas fa-envelope"></i> mayecastillo762@gmail.com</a></p>
@@ -303,7 +303,7 @@
                             <li><strong>Español:</strong> Nativo</li>
                         </ul>
                     </div>
-                    <div class="year" onclick="toggleYear('idiomas2025')">2022</div>
+                    <div class="year" onclick="toggleYear('idiomas2025')">2025</div>
                     <div id="idiomas2025" class="year-content">
                         <ul>
                              <li><strong>Inglés:</strong> Nivel B1 – Certificado por la Universidad Politécnica Estatal del Carchi (2022)</li>
