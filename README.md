@@ -212,7 +212,7 @@
     <div class="container">
         <!-- Barra lateral -->
         <div class="sidebar">
-           <img src="https://raw.Imagen de WhatsApp 2025-03-22 a las 22.36.30_ee548773.jpg" alt="Foto de perfil">
+           <img src="https://raw.githubusercontent.com/Maye2002/CV/main/Imagen%20de%20WhatsApp%202025-03-22%20a%20las%2022.36.30_ee548773.jpg" alt="Foto de perfil">
             <h2>Mayerli Alejandra Castillo Yandun</h2>
             <div class="contact-info">
                 <p><strong>Correo:</strong> <a href="mailto:mayecastillo762@gmail.com"><i class="fas fa-envelope"></i> mayecastillo762@gmail.com</a></p>
